@@ -1,0 +1,54 @@
+body {
+    
+    background-color: #111111;
+    color: #ffffff;
+    text-align: center;
+}
+
+h1, h3 {
+    font-family: "Audiowide", sans-serif;
+}
+
+a {
+    font-family: "verdana", serif;
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 15px 15px 15px 15px;
+    border-radius: 15px;
+    border: 5px solid #3c4043;
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    height: 95%;
+}
+
+input {
+    border-radius: 15px;
+    border: 2px solid #3c4043;
+    font-size: 18px;
+    line-height: 1.5;
+    outline: none;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding: 5px 10px 5px 10px;
+    background-color: #303134;
+} 
+
+p {
+    font-family: "verdana", serif;
+    font-size: 0.7em;
+}
